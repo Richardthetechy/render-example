@@ -8,8 +8,15 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richardthetechy/fullStackOpen/issues"
+  },
+  "homepage": "https://github.com/Richardthetechy/fullStackOpen#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2"
