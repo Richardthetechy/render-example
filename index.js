@@ -2,7 +2,10 @@ const express = require('express') //Importation
 const app = express()
 const cors = require('cors')
 app.use(cors())
+<<<<<<< HEAD
 app.use(express.static('dist'))
+=======
+>>>>>>> a9b16d9f5838a3ec414467cade227d5b850d6568
 let notes = [
     {
       id: "1",
